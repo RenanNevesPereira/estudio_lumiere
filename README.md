@@ -1,5 +1,5 @@
-# estudio_lumiere
+# estudio_lumiere 
 
-#Projeto exercício Faculdade Descomplica
-#Template basics of a photography studio
-#Contact: renan.nevespereira@yahoo.com
+# Exercise project University Descomplica
+# Template basics of a photography studio
+# Contact: renan.nevespereira@yahoo.com
